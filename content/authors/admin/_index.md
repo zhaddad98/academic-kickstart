@@ -25,7 +25,7 @@ interests: [ ]
 education:
   courses:
   - course: B.A. in Political Science with a focus on Public Policy and International Relations
-    year: 2016-2019
+    year: 2016-2019 / Class of 2020
   # course: 
   - course: High School Diploma from Saint Mary’s High School, Stockton, CA
     year: Class of 2016
