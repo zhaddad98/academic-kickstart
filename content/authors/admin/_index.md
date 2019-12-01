@@ -62,6 +62,6 @@ email: ""
 #- Visitors
 ---
 
-Zachary Haddad earned his B.A. in Political Science from Cal Lutheran University in 2019. His research interests include public policy, the political implications of new technology and R programming for data analysis. Outside of school, he enjoys fitness, reading, and video games.
+Zachary Haddad earned his B.A. in Political Science from Cal Lutheran University in 2019. His research interests include public policy, the political implications of new technology and R programming for data analysis. Outside of school, Zack enjoys fitness, reading, and hiking.
 
 “No one can construct for you the bridge upon which precisely you must cross the stream of life, no one but you yourself alone.” - Nietzche
