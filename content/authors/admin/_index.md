@@ -25,10 +25,10 @@ interests: [ ]
 education:
   courses:
   - course: B.A. in Political Science with a focus on Public Policy and International Relations
-    year: 2012
+    year: 2016-2019
   # course: 
   - course: High School Diploma from Saint Mary’s High School, Stockton, CA
-
+    year: Class of 2016
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
